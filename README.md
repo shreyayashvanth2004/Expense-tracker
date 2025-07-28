@@ -2,10 +2,8 @@
 
 A full-stack personal finance management app that helps you track income, expenses, visualize analytics, and stay in control of your finances. Built with the MERN stack (MongoDB, Express.js, Node.js, Vanilla JS), it includes authentication, transaction history, and insightful charts.
 
-![Expense Tracker Homepage](./public/images/output-homepage.png)
-![Dashboard Preview](./public/images/output-dashboard.png)
-![Transaction List](./public/images/output-transactions.png)
-![Financial Analytics](./public/images/output-analytics.png)
+<img width="1127" height="667" alt="image" src="https://github.com/user-attachments/assets/7f73c213-38f5-4bc1-b466-0c5f9912342b" />
+
 
 🔑 Features
 
