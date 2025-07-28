@@ -4,11 +4,16 @@ A full-stack personal finance management app that helps you track income, expens
 
 <img width="1127" height="667" alt="image" src="https://github.com/user-attachments/assets/7f73c213-38f5-4bc1-b466-0c5f9912342b" />
 
+
 <img width="1143" height="550" alt="image" src="https://github.com/user-attachments/assets/d92e4c60-a834-4b83-beb5-162a1b80c5e6" />
+
 
 <img width="1167" height="658" alt="image" src="https://github.com/user-attachments/assets/1d0e9d44-0d4f-448e-8b8e-a09f2fc7fee8" />
 
+
 <img width="1170" height="706" alt="image" src="https://github.com/user-attachments/assets/2a88922d-a3b9-4a9c-b56e-ed7dcaeec6f8" />
+
+
 
 
 
